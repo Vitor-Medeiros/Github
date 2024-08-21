@@ -50,9 +50,12 @@
 
 ##### 22- Como adicionar Reviewers em seu repositório:> em open Pull request va em reviewers e aperte a emgrenagem, logo após insira o nome de,es que deseja adicionar
 
+<<<<
+=======
+
 ##### oi eu sou o goku, ou sera que não 
-
-
+##### não funciona 
+>>>>>>> a49dfc4 (pimba2)
 
 
 ![](head-gif.gif)
