@@ -26,6 +26,6 @@
 ##### 21- Como fazer um Pull-Request? > git push origin "nomedabranch"
 ##### 22- Como adicionar Reviewers em seu repositório:> não sei
 
-
+##### oi eu sou o goku, ou sera que não 
 
 ![](head-gif.gif)
